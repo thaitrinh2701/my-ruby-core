@@ -1,55 +1,60 @@
-
 # Ruby Core Learning Repository
  
-This is my personal Ruby Core learning repository. 
+This is my personal repository for learning Ruby Core.
+
+---
 
 **WHAT IS RUBY?**
 
-Ruby is an object-oriented programming language and can be setup on all modern operating
-Ruby was first developed and release in 1995 by **Yukihiro Matsumoto**, who also known as Matz 
-(https://github.com/matz)
+Ruby is an object-oriented programming language that can be set up on all modern operating systems. It was first developed and released in 1995 by **Yukihiro Matsumoto**, also known as Matz. You can find his GitHub profile here: [Yukihiro Matsumoto](https://github.com/matz).
 
-Official website for the Ruby programming language: (https://www.ruby-lang.org/en/)
+The official website for the Ruby programming language is available here: [ruby-lang.org](https://www.ruby-lang.org/en/).
 
+---
 
 **WHY RUBY?**
 
-Ruby is focused on programmer productivity and simplicity. Its syntax is much simpler than other programming language
-Because of focus on programmer hapiness, it has slower speed compare to other language like Java, Python, .... But Ruby is slower, not slow
+Ruby focuses on programmer productivity and simplicity. Its syntax is much simpler than that of other programming languages, making it easier to write and understand code. Due to its emphasis on programmer happiness, Ruby may have slower execution speed compared to languages like Java or Python. However, while Ruby might be slower, it is not inherently slow.
 
+---
 
+**RUBY ON RAILS**
 
-**Ruby on Rails**
+Ruby on Rails (often referred to as RoR or Rails) is a popular web development framework built on top of Ruby. It was developed by David Heinemeier Hansson (DHH), whose GitHub profile can be found here: [David Heinemeier Hansson](https://github.com/dhh).
 
-Ruby on Rails (or RoR, Rails) is a popular web development framework built on top of Ruby
-Rails was developed by David Heinemeier Hansson (DHH)
-(https://github.com/dhh)
-Ruby and Rails are different technologies. Ruby is a prerequisite for Rails.
+It’s important to note that Ruby and Rails are different technologies: Ruby is the programming language, and Rails is a framework that requires Ruby to function.
 
+---
 
+**RUBY INSTALLATION**
 
-**RUBY INSTALL**
+To install Ruby, visit the official RubyInstaller website: [rubyinstaller.org](https://rubyinstaller.org/downloads/) and download the latest version with the DevKit.
 
-Go to: [Downloads (rubyinstaller.org)](https://rubyinstaller.org/downloads/)
-Download the lastest version with devkit
+After installation, you can verify the installation by running the following command in your terminal:
 
-Check: ruby -v
-
-My extension for VSCode: 
-
--Code Runner
-
--Ruby extension pack - by Shopify
-
-
-Hello ruby : 
+```bash
+ruby -v
 ```
+**Recommended VSCode Extensions:**
+
+ - Code Runner: Easily run your Ruby scripts from within VSCode.
+
+ - Ruby Extension Pack by Shopify: Provides enhanced Ruby language support in VSCode.
+
+---
+
+**Hello Ruby Example:**
+
+Here’s a simple Ruby script to print "Hello Ruby":
+
+```bash
 puts "Hello Ruby"
 ```
 
+To run the code from the terminal, use the following command:
 
-Run code from terminal : 
+```bash
+ruby file_name.rb
 ```
-ruby file_name
 
-
+This repository is based on the Udemy course ["Learn to Code with Ruby"](https://www.udemy.com/course/learn-to-code-with-ruby-lang/) and other Ruby tutorials available on YouTube.
