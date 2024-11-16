@@ -1,6 +1,10 @@
 # Ruby Core Learning Repository
  
 This is my personal repository for learning Ruby Core.
+Sad Story - 17/11/2024:
+I know this repository is old, but I had completed about 16 chapters (I belived) and forgot to push them to GitHub. Unfortunately, at that time, I downgraded my PC to Windows 10, and when I returned to check my public repositories (including this one), I realized that I hadn't uploaded all the chapters. 
+DONT BE LIKE ME IF YOU DONE SOMETHING, JUST PUSH THEM TO GITHUB, DON'T WAIT UNTIL IT COMPLETE :(
+If I have time, maybe I code Ruby again and complete this old repo
 
 ---
 
